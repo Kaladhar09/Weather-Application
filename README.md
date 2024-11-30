@@ -70,7 +70,6 @@ Weather-Application/
 │
 ├── index.html         # Main HTML file  
 ├── style.css          # Styling for the application  
-├── script.js          # JavaScript logic for API calls and updates  
 └── README.md          # Project documentation  
 ```  
 
